@@ -13,3 +13,7 @@
 단어수정
 
 <img src = "https://github.com/jjas-min/PracticalProject1/blob/master/screenshot/KakaoTalk_Photo_2022-09-17-16-51-08.png?raw=true">
+
+단어 삭제
+
+<img src ="https://github.com/jjas-min/PracticalProject1/blob/master/screenshot/%E1%84%83%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A5%20%E1%84%89%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%A6.png?raw=true">
