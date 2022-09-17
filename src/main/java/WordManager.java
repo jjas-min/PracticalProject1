@@ -27,7 +27,6 @@ public class WordManager {
             if (menu == 0) break;
             if (menu == 1) {
                 wordCRUD.listAll();
-
             }
             if (menu == 2) {
 
@@ -39,7 +38,7 @@ public class WordManager {
                 wordCRUD.addWord();
             }
             if (menu == 5) {
-
+                wordCRUD.updateWord();
             }
             if (menu == 6) {
 
