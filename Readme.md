@@ -21,3 +21,7 @@
 단어 로딩
 
 <img src = "https://github.com/jjas-min/PracticalProject1/blob/master/screenshot/image.png?raw=true">
+
+파일 저장
+
+<img src = "https://github.com/jjas-min/PracticalProject1/blob/master/screenshot/image.png?raw=true">
