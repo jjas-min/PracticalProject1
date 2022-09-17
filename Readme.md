@@ -9,3 +9,7 @@
 나가기
 
 <img src = "https://github.com/jjas-min/PracticalProject1/blob/master/screenshot/%E1%84%82%E1%85%A1%E1%84%80%E1%85%A1%E1%84%80%E1%85%B5.png?raw=true">
+
+단어수정
+
+<img src = "https://github.com/jjas-min/PracticalProject1/blob/master/screenshot/KakaoTalk_Photo_2022-09-17-16-51-08.png?raw=true">
