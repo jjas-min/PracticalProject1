@@ -30,7 +30,7 @@ public class WordManager {
                 wordCRUD.listAll();
             }
             if (menu == 2) {
-
+                wordCRUD.searchLevel();
             }
             if (menu == 3) {
 
